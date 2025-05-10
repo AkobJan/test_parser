@@ -4,6 +4,7 @@
 ## **Как запустить проект**
 # 1. Клонировать репозиторий
 git clone https://github.com/AkobJan/test_parser.git
+
 cd avito-parser
 
 # 2. Установить зависимости
