@@ -3,14 +3,14 @@
 
 ## **Как запустить проект**
 # 1. Клонировать репозиторий
-git clone https://github.com/ваш-логин/avito-parser.git
+git clone https://github.com/AkobJan/test_parser.git
 cd avito-parser
 
 # 2. Установить зависимости
 pip install -r requirements.txt
 
 # 3. Запустить парсер
-python parser.py --url "https://www.avito.ru/..."
+python parser.py
 
 ### **Проблемы при парсинге Avito и решения**
 | Проблема | Решение |
